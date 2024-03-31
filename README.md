@@ -1,4 +1,4 @@
 # PellePrinter
-A Brazilian 3D printing solution using pellets to provide a more efficient and cost-effective alternative compared to the traditional filament model, by a directly extrusion of pellets in a multi-material and multi-color accessible FDM printing system.
+A Brazilian 3D printing solution using pellets to provide a more efficient and cost-effective alternative compared to the traditional filament systems, by a directly extrusion of pellets in a multi-material and multi-color accessible FDM printing system.
 
 # Goals
