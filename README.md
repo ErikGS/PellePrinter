@@ -3,7 +3,7 @@ A Brazilian 3D printing solution using pellets to provide a more efficient and c
 
 # Background
 
-I'm Erik, a Undergraduate in Product Design at the State University of Maringa (UEM), Brazil.
+I'm Erik, a Undergraduate in Product Design at the State University of Maringá (UEM), Brazil.
 
 This is a project that I have been silently sketching for about a year now (~2023), between home and at university. I'm currently developing this project as my Undergraduate thesis and expect to start uploading all additional information and project files soon. My goal from start was to achieve a fully functional and complete system, great for professional setups by providing a much more versatile and cost-effective alternative over filament-based systems, while also being affordable enough for the enthusiasts all over the world who constitutes a big portion of the 3D printing community. This affordable-but-actually-great aspect resonates deeply with my brazillian context, where machines and technology in general are typically expensive, as it tends to be mostly usually imported, than produced locally. This IS why I want to develop something Accessible-but-Great, attractive to enthusiasts yet well-suited for more professional usages.
 
